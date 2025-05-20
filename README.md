@@ -1,4 +1,4 @@
 # LeetcodeSolutions
 | #| Problem   | Language |  Difficulty | Solution file     |
 |--|-----------|----------|-------------|-------------------|
-| 1| Two Sum   | C++      | Easy        | [C++/1-TwoSum.cpp |
+| 1| Two Sum   | C++      | Easy        | [C++/1-TwoSum.cpp]|
