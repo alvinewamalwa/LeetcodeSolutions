@@ -6,4 +6,4 @@
 | 3| Binary Tree Inorder Traversal | C++    | Easy    | Binary Tree Inorder Traversal |
 | 4| Longest Common Prefix  | C++   | Easy   | Longest Common Prefix  |
 | 5| Roman To Integer  | C++   | Easy  | Roman To Integer |
-| 6| Palindrome number  | C++ | Easy  | Palindrome number  |
+| 6| Palindrome Number  | C++ | Easy  | Palindrome Number  |
