@@ -7,3 +7,4 @@
 | 4| Longest Common Prefix  | C++   | Easy   | Longest Common Prefix  |
 | 5| Roman To Integer  | C++   | Easy  | Roman To Integer |
 | 6| Palindrome Number  | C++ | Easy  | Palindrome Number  |
+| 7| Valid Parantheses  | C++ | Easy | Valid Parantheses  |
