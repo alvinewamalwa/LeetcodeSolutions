@@ -9,3 +9,4 @@
 | 6| Palindrome Number  | C++ | Easy  | Palindrome Number  |
 | 7| Valid Parantheses  | C++ | Easy | Valid Parantheses  |
 | 8| Remove Duplicates from Sorted Array  | C++  | Easy  | Remove Duplicates from Sorted Array |
+| 9| Remove Element  | C++ | Easy  | Remove Element  |
