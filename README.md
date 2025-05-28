@@ -8,4 +8,4 @@
 | 5| Roman To Integer  | C++   | Easy  | Roman To Integer |
 | 6| Palindrome Number  | C++ | Easy  | Palindrome Number  |
 | 7| Valid Parantheses  | C++ | Easy | Valid Parantheses  |
-\ 8| Remove Duplicates from Sorted Array  | C++  | Easy  | Remove Duplicates from Sorted Array |
+| 8| Remove Duplicates from Sorted Array  | C++  | Easy  | Remove Duplicates from Sorted Array |
