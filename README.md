@@ -11,4 +11,4 @@
 | 8| Remove Duplicates from Sorted Array  | C++  | Easy  | Remove Duplicates from Sorted Array |
 | 9| Remove Element  | C++ | Easy  | Remove Element  |
 |10| Find the Index of the First Occurrence in a String| C++  | Easy  | Find the Index of the First Occurrence in a String|
-|11| Search Insert Position | C++  | Search Insert Position  |
+|11| Search Insert Position | C++  | Easy | Search Insert Position  |
