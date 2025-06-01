@@ -12,3 +12,5 @@
 | 9| Remove Element  | C++ | Easy  | Remove Element  |
 |10| Find the Index of the First Occurrence in a String| C++  | Easy  | Find the Index of the First Occurrence in a String|
 |11| Search Insert Position | C++  | Easy | Search Insert Position  |
+|12| Length of Lastword | C++  | Easy  | Length of Lastword |
+|13| Plus One | C++ | Easy | Plus One |
