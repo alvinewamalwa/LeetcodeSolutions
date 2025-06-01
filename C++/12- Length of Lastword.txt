@@ -1,0 +1,24 @@
+class Solution {
+public:
+    int lengthOfLastWord(string s) {
+      int ans = 0;
+      bool blank = false;
+
+      for(int i=0; i<s.size(); i++) {
+        if(s[i] == ' ') {
+            blank = true;
+        }
+        else {
+            if(blank == true) {
+                blank = false;
+                ans = 1;
+            }
+            else{
+                ans += 1;
+            }
+        }
+      }
+
+      return ans;
+    }
+};
