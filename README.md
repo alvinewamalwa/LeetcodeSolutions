@@ -14,3 +14,5 @@
 |11| Search Insert Position | C++  | Easy | Search Insert Position  |
 |12| Length of Lastword | C++  | Easy  | Length of Lastword |
 |13| Plus One | C++ | Easy | Plus One |
+|14| Add Binary | C++ | Easy | Add Binary|
+|15| Sqrt(x) | C++ | Easy | Sqrt(x) |
