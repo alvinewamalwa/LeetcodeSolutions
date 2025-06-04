@@ -16,3 +16,5 @@
 |13| Plus One | C++ | Easy | Plus One |
 |14| Add Binary | C++ | Easy | Add Binary|
 |15| Sqrt(x) | C++ | Easy | Sqrt(x) |
+|16| Climbing Stairs.cpp | C++ | Easy | Climbing Stairs.cpp|
+|17| Merge Sorted Array | C++ | Easy | Merge Sorted Array |
