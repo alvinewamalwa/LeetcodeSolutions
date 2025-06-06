@@ -18,3 +18,5 @@
 |15| Sqrt(x) | C++ | Easy | Sqrt(x) |
 |16| Climbing Stairs.cpp | C++ | Easy | Climbing Stairs.cpp|
 |17| Merge Sorted Array | C++ | Easy | Merge Sorted Array |
+|18| Same Tree | C++ | Easy | Same Tree |
+|19| Symmetric Tree | C++ | Easy | Symmetric Tree |
