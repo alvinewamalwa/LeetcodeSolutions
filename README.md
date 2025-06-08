@@ -20,3 +20,5 @@
 |17| Merge Sorted Array | C++ | Easy | Merge Sorted Array |
 |18| Same Tree | C++ | Easy | Same Tree |
 |19| Symmetric Tree | C++ | Easy | Symmetric Tree |
+|20| Balanced Binary Tree | C++ | Easy | balanced Binary Tree|
+|21| Minimum Depth of Binary Tree | C++ | Easy | Minimum Depth of Binary Tree |
