@@ -22,3 +22,5 @@
 |19| Symmetric Tree | C++ | Easy | Symmetric Tree |
 |20| Balanced Binary Tree | C++ | Easy | balanced Binary Tree|
 |21| Minimum Depth of Binary Tree | C++ | Easy | Minimum Depth of Binary Tree |
+|22| Path Sum | C++ | Easy | Path Sum |
+|23| Pascal's Triangle | C++ | Easy | Pascal's Triangle |
