@@ -24,3 +24,5 @@
 |21| Minimum Depth of Binary Tree | C++ | Easy | Minimum Depth of Binary Tree |
 |22| Path Sum | C++ | Easy | Path Sum |
 |23| Pascal's Triangle | C++ | Easy | Pascal's Triangle |
+|24| Pascal's Triangle II | C++ | Easy | Pascal's Triangle II |
+|25| Valid Palindrome | C++ | Easy | Valid Palindrome |
