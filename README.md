@@ -26,3 +26,5 @@
 |23| Pascal's Triangle | C++ | Easy | Pascal's Triangle |
 |24| Pascal's Triangle II | C++ | Easy | Pascal's Triangle II |
 |25| Valid Palindrome | C++ | Easy | Valid Palindrome |
+|26| Single Number | C++ | Easy | Single Number |
+|27| Single Number II | C++ | Medium | Single Number II |
