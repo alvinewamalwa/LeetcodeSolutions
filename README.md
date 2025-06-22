@@ -28,3 +28,5 @@
 |25| Valid Palindrome | C++ | Easy | Valid Palindrome |
 |26| Single Number | C++ | Easy | Single Number |
 |27| Single Number II | C++ | Medium | Single Number II |
+|28| Linked List Cycle | C++ | Easy | Linked List Cycle |
+|29| Binary Tree Preorder Traversal | C++ | Easy | Binary Tree Preorder Traversal |
