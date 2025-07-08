@@ -30,3 +30,7 @@
 |27| Single Number II | C++ | Medium | Single Number II |
 |28| Linked List Cycle | C++ | Easy | Linked List Cycle |
 |29| Binary Tree Preorder Traversal | C++ | Easy | Binary Tree Preorder Traversal |
+|30| Binary Tree Posyorder Traversal | C++ | Easy | Binary Tree Postorder Traversal |
+|31| Excel Sheet Column Title | C++ | Easy | Excel Sheet Column Title|
+|32| Majority Element | C++ | Easy | Majority Element |
+|33| Excel Sheet Coulumn Number | C++ | Easy | Excel Sheet Column Number |
