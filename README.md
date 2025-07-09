@@ -34,3 +34,5 @@
 |31| Excel Sheet Column Title | C++ | Easy | Excel Sheet Column Title|
 |32| Majority Element | C++ | Easy | Majority Element |
 |33| Excel Sheet Coulumn Number | C++ | Easy | Excel Sheet Column Number |
+|34| Remove Duplicates From Sorted List | C++ | Easy | Remove Duplicates From Sorted List|
+|35| Maximum Depth of Binary Tree | C++ | Easy | Maximum Depth of Binary Tree |
