@@ -36,3 +36,5 @@
 |33| Excel Sheet Coulumn Number | C++ | Easy | Excel Sheet Column Number |
 |34| Remove Duplicates From Sorted List | C++ | Easy | Remove Duplicates From Sorted List|
 |35| Maximum Depth of Binary Tree | C++ | Easy | Maximum Depth of Binary Tree |
+|36| Add Two Numbers | C++ | Medium | Add Two Numbers|
+|37| Zigzag conversion | C++ | Medium | Zigzag conversion
