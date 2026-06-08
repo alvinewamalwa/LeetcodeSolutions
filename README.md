@@ -1,40 +1,46 @@
+This repository contains my C++ solutions to LeetCode problems, focusing on Easy and Medium levels to improve problem-solving skills, data structures, and algorithmic thinking. The goal is to understand common patterns such as arrays, strings, sliding window, two pointers, hashing, and recursion while writing clean and efficient code.
+
+
+
+
 # LeetcodeSolutions
-| #| Problem   | Language |  Difficulty | Solution file     |
-|--|-----------|----------|-------------|-------------------|
-| 1| Two Sum   | C++      | Easy        | [C++/1-TwoSum.cpp]|
-| 2| Check if array is sorted and rotated| C++   | Easy      | Check if Array is sorted and Rotated |
-| 3| Binary Tree Inorder Traversal | C++    | Easy    | Binary Tree Inorder Traversal |
-| 4| Longest Common Prefix  | C++   | Easy   | Longest Common Prefix  |
-| 5| Roman To Integer  | C++   | Easy  | Roman To Integer |
-| 6| Palindrome Number  | C++ | Easy  | Palindrome Number  |
-| 7| Valid Parantheses  | C++ | Easy | Valid Parantheses  |
-| 8| Remove Duplicates from Sorted Array  | C++  | Easy  | Remove Duplicates from Sorted Array |
-| 9| Remove Element  | C++ | Easy  | Remove Element  |
-|10| Find the Index of the First Occurrence in a String| C++  | Easy  | Find the Index of the First Occurrence in a String|
-|11| Search Insert Position | C++  | Easy | Search Insert Position  |
-|12| Length of Lastword | C++  | Easy  | Length of Lastword |
-|13| Plus One | C++ | Easy | Plus One |
-|14| Add Binary | C++ | Easy | Add Binary|
-|15| Sqrt(x) | C++ | Easy | Sqrt(x) |
-|16| Climbing Stairs.cpp | C++ | Easy | Climbing Stairs.cpp|
-|17| Merge Sorted Array | C++ | Easy | Merge Sorted Array |
-|18| Same Tree | C++ | Easy | Same Tree |
-|19| Symmetric Tree | C++ | Easy | Symmetric Tree |
-|20| Balanced Binary Tree | C++ | Easy | balanced Binary Tree|
-|21| Minimum Depth of Binary Tree | C++ | Easy | Minimum Depth of Binary Tree |
-|22| Path Sum | C++ | Easy | Path Sum |
-|23| Pascal's Triangle | C++ | Easy | Pascal's Triangle |
-|24| Pascal's Triangle II | C++ | Easy | Pascal's Triangle II |
-|25| Valid Palindrome | C++ | Easy | Valid Palindrome |
-|26| Single Number | C++ | Easy | Single Number |
-|27| Single Number II | C++ | Medium | Single Number II |
-|28| Linked List Cycle | C++ | Easy | Linked List Cycle |
-|29| Binary Tree Preorder Traversal | C++ | Easy | Binary Tree Preorder Traversal |
-|30| Binary Tree Posyorder Traversal | C++ | Easy | Binary Tree Postorder Traversal |
-|31| Excel Sheet Column Title | C++ | Easy | Excel Sheet Column Title|
-|32| Majority Element | C++ | Easy | Majority Element |
-|33| Excel Sheet Coulumn Number | C++ | Easy | Excel Sheet Column Number |
-|34| Remove Duplicates From Sorted List | C++ | Easy | Remove Duplicates From Sorted List|
-|35| Maximum Depth of Binary Tree | C++ | Easy | Maximum Depth of Binary Tree |
-|36| Add Two Numbers | C++ | Medium | Add Two Numbers|
-|37| Zigzag conversion | C++ | Medium | Zigzag conversion
+| #| Problem   |  Difficulty |
+|--|-----------|-------------|
+| 1| Two Sum   | Easy        |
+| 2| Check if array is sorted and rotated| Easy  |
+| 3| Binary Tree Inorder Traversal  | Easy    |
+| 4| Longest Common Prefix  | Easy   |
+| 5| Roman To Integer   | Easy  | 
+| 6| Palindrome Number  | Easy  |
+| 7| Valid Parantheses  | Easy | 
+| 8| Remove Duplicates from Sorted Array | Easy  |
+| 9| Remove Element | Easy  |
+|10| Find the Index of the First Occurrence in a String  | Easy  |
+|11| Search Insert Position | Easy | 
+|12| Length of Lastword | Easy  | 
+|13| Plus One| Easy | 
+|14| Add Binary | Easy | 
+|15| Sqrt(x) | Easy | 
+|16| Climbing Stairs.cpp | Easy |
+|17| Merge Sorted Array | Easy | 
+|18| Same Tree | Easy |
+|19| Symmetric Tree| Easy | 
+|20| Balanced Binary Tree | Easy | 
+|21| Minimum Depth of Binary Tree | Easy | 
+|22| Path Sum | Easy | 
+|23| Pascal's Triangle  | Easy | 
+|24| Pascal's Triangle II  | Easy | 
+|25| Valid Palindrome | Easy | 
+|26| Single Number | Easy | 
+|27| Single Number II | Medium | 
+|28| Linked List Cycle | Easy | 
+|29| Binary Tree Preorder Traversal | Easy | 
+|30| Binary Tree Posyorder Traversal | Easy | 
+|31| Excel Sheet Column Title | Easy | 
+|32| Majority Element| Easy | 
+|33| Excel Sheet Coulumn Number| Easy | 
+|34| Remove Duplicates From Sorted List| Easy |
+|35| Maximum Depth of Binary Tree | Easy | 
+|36| Add Two Numbers | Medium |
+|37| Zigzag conversion | Medium | 
+|38| Delete Node in a Linked List | Medium |
